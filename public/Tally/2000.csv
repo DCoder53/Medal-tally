@@ -1,0 +1,81 @@
+Country name,country,Gold,Silver,Bronze,Total
+United States of America,USA,37,24,32,93
+Russian Federation,RUS,32,28,29,89
+People's Republic of China,CHN,28,16,14,58
+Australia,AUS,16,25,17,58
+Germany,GER,13,17,26,56
+France,FRA,13,14,11,38
+Italy,ITA,13,8,13,34
+Netherlands,NLD,12,9,4,25
+Cuba,CUB,11,11,7,29
+Great Britain,GBR,11,10,7,28
+Romania,ROU,11,6,9,26
+Republic of Korea,KOR,8,10,10,28
+Hungary,HUN,8,6,3,17
+Poland,POL,6,5,3,14
+Japan,JPN,5,8,5,18
+Bulgaria,BUL,5,6,2,13
+Greece,GRE,4,6,3,13
+Sweden,SWE,4,5,3,12
+Norway,NOR,4,3,3,10
+Ethiopia,ETH,4,1,3,8
+Ukraine,UKR,3,10,10,23
+Kazakhstan,KAZ,3,4,0,7
+Belarus,BLR,3,3,11,17
+Canada,CAN,3,3,8,14
+Spain,ESP,3,3,5,11
+Türkiye,TUR,3,0,2,5
+Islamic Republic of Iran,IRI,3,0,1,4
+Czechia,CZE,2,3,3,8
+Kenya,KEN,2,3,2,7
+Denmark,DEN,2,3,1,6
+Finland,FIN,2,1,1,4
+Austria,AUT,2,1,0,3
+Lithuania,LTU,2,0,3,5
+Azerbaijan,AZE,2,0,1,3
+Bahamas,BAH,2,0,1,3
+Slovenia,SVN,2,0,0,2
+Switzerland,CHE,1,6,2,9
+Indonesia,INA,1,3,2,6
+Slovakia,SVK,1,3,1,5
+Mexico,MEX,1,2,3,6
+Nigeria,NGA,1,2,0,3
+Algeria,DZA,1,1,3,5
+Uzbekistan,UZB,1,1,2,4
+Latvia,LVA,1,1,1,3
+Serbia and Montenegro,SCG,1,1,1,3
+New Zealand,NZL,1,0,3,4
+Thailand,THA,1,0,2,3
+Estonia,EST,1,0,2,3
+Croatia,HRV,1,0,1,2
+Mozambique,MOZ,1,0,0,1
+Colombia,COL,1,0,0,1
+Cameroon,CMR,1,0,0,1
+Brazil,BRA,0,6,6,12
+Jamaica,JAM,0,6,3,9
+Belgium,BEL,0,2,3,5
+South Africa,ZAF,0,2,3,5
+Argentina,ARG,0,2,2,4
+Morocco,MAR,0,1,4,5
+Chinese Taipei,TPE,0,1,4,5
+Democratic People's Republic of Korea,PRK,0,1,3,4
+Republic of Moldova,MDA,0,1,1,2
+Saudi Arabia,SAU,0,1,1,2
+Trinidad and Tobago,TTO,0,1,1,2
+Sri Lanka,LKA,0,1,0,1
+Ireland,IRL,0,1,0,1
+Vietnam,VNM,0,1,0,1
+Uruguay,URY,0,1,0,1
+Georgia,GEO,0,0,6,6
+Portugal,PRT,0,0,2,2
+Costa Rica,CRI,0,0,2,2
+Iceland,ISL,0,0,1,1
+Barbados,BRB,0,0,1,1
+North Macedonia,MKD,0,0,1,1
+Kyrgyzstan,KGZ,0,0,1,1
+Kuwait,KWT,0,0,1,1
+Qatar,QAT,0,0,1,1
+Armenia,ARM,0,0,1,1
+Chile,CHL,0,0,1,1
+Israel,ISR,0,0,1,1
+India,IND,0,0,1,1

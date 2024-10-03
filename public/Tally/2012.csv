@@ -1,0 +1,87 @@
+Country Name,country,Gold,Silver,Bronze,Total
+United States of America,USA,48,26,30,104
+People's Republic of China,CHN,39,31,22,92
+Great Britain,GBR,29,18,18,65
+Russian Federation,RUS,18,21,26,65
+Republic of Korea,KOR,13,9,9,31
+Germany,GER,11,20,13,44
+France,FRA,11,11,13,35
+Australia,AUS,8,15,12,35
+Italy,ITA,8,9,11,28
+Hungary,HUN,8,4,6,18
+Japan,JPN,7,14,17,38
+Islamic Republic of Iran,IRI,7,5,1,13
+Netherlands,NED,6,6,8,20
+New Zealand,NZL,6,2,5,13
+Ukraine,UKR,5,4,10,19
+Cuba,CUB,5,3,7,15
+Spain,ESP,4,10,6,20
+Jamaica,JAM,4,5,4,13
+Czechia,CZE,4,4,3,11
+South Africa,RSA,4,1,1,6
+Democratic People's Republic of Korea,PRK,4,0,2,6
+Brazil,BRA,3,5,9,17
+Poland,POL,3,2,6,11
+Ethiopia,ETH,3,2,3,8
+Kazakhstan,KAZ,3,1,7,11
+Croatia,CRO,3,1,2,6
+Canada,CAN,2,6,10,18
+Belarus,BLR,2,5,3,10
+Kenya,KEN,2,4,7,13
+Denmark,DEN,2,4,3,9
+Romania,ROU,2,4,1,7
+Azerbaijan,AZE,2,2,5,9
+Switzerland,SUI,2,2,0,4
+Norway,NOR,2,1,1,4
+Lithuania,LTU,2,0,3,5
+Tunisia,TUN,2,0,1,3
+Sweden,SWE,1,4,3,8
+Colombia,COL,1,3,5,9
+Mexico,MEX,1,3,4,8
+Georgia,GEO,1,2,3,6
+Ireland,IRL,1,1,4,6
+Argentina,ARG,1,1,2,4
+Serbia,SRB,1,1,2,4
+Trinidad and Tobago,TRI,1,1,2,4
+Slovenia,SVK,1,1,2,4
+Türkiye,TUR,1,1,1,3
+Dominican Republic,DOM,1,1,0,2
+Chinese Taipei,TPE,1,0,1,2
+Latvia,LAT,1,0,1,2
+Venezuela,VEN,1,0,0,1
+Algeria,ALG,1,0,0,1
+Grenada,GRN,1,0,0,1
+Bahamas,BAH,1,0,0,1
+Uganda,UGA,1,0,0,1
+Bahrain,BRN,1,0,0,1
+Egypt,EGY,0,3,1,4
+India,IND,0,2,4,6
+Mongolia,MGL,0,2,3,5
+Thailand,THA,0,2,2,4
+Bulgaria,BUL,0,2,1,3
+Finland,FIN,0,2,1,3
+Indonesia,INA,0,2,1,3
+Slovakia,SVK,0,1,3,4
+Belgium,BEL,0,1,2,3
+Malaysia,MAS,0,1,1,2
+Qatar,QAT,0,1,1,2
+Puerto Rico,PUR,0,1,1,2
+Estonia,EST,0,1,1,2
+Armenia,ARM,0,1,1,2
+Montenegro,MNE,0,1,0,1
+Cyprus,CYP,0,1,0,1
+Guatemala,GUA,0,1,0,1
+Botswana,BOT,0,1,0,1
+Gabon,GAB,0,1,0,1
+Portugal,POR,0,1,0,1
+Uzbekistan,UZB,0,0,3,3
+Greece,GRE,0,0,2,2
+Singapore,SGP,0,0,2,2
+Tajikistan,TJK,0,0,1,1
+Saudi Arabia,KSA,0,0,1,1
+Kuwait,KUW,0,0,1,1
+Morocco,MAR,0,0,1,1
+Afghanistan,AFG,0,0,1,1
+Hong Kong,HKG,0,0,1,1
+Vietnam,VIE,0,0,1,1
+Cameroon,CMR,0,0,1,1
